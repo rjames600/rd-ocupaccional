@@ -29,6 +29,10 @@ body h1 {
    text-align: center;
    color:#007f95
 }
+   header{
+
+      height: 500px;
+   }
 header img { 
    width: 200px;
    display: block;
